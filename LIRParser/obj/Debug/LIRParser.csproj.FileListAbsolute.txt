@@ -1,0 +1,11 @@
+C:\Projects\LIRParser\LIRParser\bin\Debug\LIRParser.exe.config
+C:\Projects\LIRParser\LIRParser\bin\Debug\LIRParser.exe
+C:\Projects\LIRParser\LIRParser\bin\Debug\LIRParser.pdb
+C:\Projects\LIRParser\LIRParser\bin\Debug\MongoDB.Bson.dll
+C:\Projects\LIRParser\LIRParser\bin\Debug\MongoDB.Driver.dll
+C:\Projects\LIRParser\LIRParser\bin\Debug\MongoDB.Bson.xml
+C:\Projects\LIRParser\LIRParser\bin\Debug\MongoDB.Driver.xml
+C:\Projects\LIRParser\LIRParser\obj\Debug\LIRParser.exe
+C:\Projects\LIRParser\LIRParser\obj\Debug\LIRParser.pdb
+C:\Projects\LIRParser\LIRParser\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\LIRParser\LIRParser\bin\Debug\Newtonsoft.Json.xml
