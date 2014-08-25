@@ -1,2 +1,2 @@
-LIRParser
+LiveInternet rating parser
 =========
